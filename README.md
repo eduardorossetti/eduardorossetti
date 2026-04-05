@@ -14,7 +14,8 @@
 
 ## 🎓 Education & Certifications
 - **Technologist Degree in Systems Analysis and Development - University of Western São Paulo (2022-2024)**
-- **Bachelor of Software Engineering - University of Western São Paulo (currently)**
+- **Bachelor of Software Engineering - University of Western São Paulo (2024-2026)**
+- **M.Sc. in Computer Science – São Paulo State University (UNESP) (currently)**
 
 ##
   <a href="https://www.linkedin.com/in/eduardo-rossetti/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
